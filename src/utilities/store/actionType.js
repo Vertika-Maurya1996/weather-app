@@ -1,0 +1,1 @@
+export const COORDINATES = "COORDINATES";
